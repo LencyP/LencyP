@@ -1,7 +1,7 @@
 # Hi, my name is Lenka :sparkles:
 
 I like to code in my free time, it's maybe strange for some people but I really enjoy neverending process of learning. At this time I am working hard on JavaScript and React.
-I am passionate about beautiful, responsive but also practical websites. I guess because it's very creative but at the same time logical.
+I am passionate about beautiful, responsive but also practical websites. 
 
 Please check my 
 - [CodePen](https://codepen.io/LenkaPuf) 
