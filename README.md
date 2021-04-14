@@ -9,4 +9,4 @@ Please check my
 
 and stay in touch! 
 
-Also I like to dance :dancer:
+if I am not coding I like to dance :dancer:
