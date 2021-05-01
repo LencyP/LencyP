@@ -7,6 +7,6 @@ Please check also my
 - [CodePen](https://codepen.io/LenkaPuf) 
 - [LinkedIn](https://www.linkedin.com/in/lenkafuksova82878/)
 
-and stay in touch! 
+and stay let's be in touch! 
 
 if I am not coding I like to dance :dancer:
