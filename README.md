@@ -1,12 +1,15 @@
 # Hi, my name is Lenka :sparkles:
 
-One day I started to learn how to code out of curiosity and I would never have expected that the IT world would be my thing... after a few months, I realized, that yes, it's my thing and I enjoy the neverending learning process. 
-I am passionate about good UI/UX, data analyses, and responsive websites but also I like to have fun and just try to build easy games or apps with APIs.
+One day, I started learning how to code purely out of curiosity. I never expected the IT world to become such a big part of my life. After a few months, I realized I genuinely enjoyed it, especially the constant learning and problem solving.
+
+While exploring coding, I discovered that my real passion lies in creating good UX and UI, which eventually led me to product design.
+
+Today, I'm passionate about thoughtful UX/UI, data analysis, and responsive websites. I also like to experiment and build things just for fun, from simple games to small apps using APIs.
 
 Please also check my 
 - Portfolio- under reconstruction :hammer: 
 - [CodePen](https://codepen.io/LenkaPuf) 
-- [LinkedIn](https://www.linkedin.com/in/lenkafuksova82878/)
+- [LinkedIn](https://www.linkedin.com/in/lenkaef)
 
 and let's be in touch! 
 
