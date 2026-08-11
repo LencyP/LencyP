@@ -13,4 +13,4 @@ Please also check my
 
 and let's be in touch! 
 
-if I am not coding I like to dance :dancer:
+if I am not designing I like to paint! 🖌️
